@@ -1,0 +1,14 @@
+0,Termid,RegdNo,Course,Grade,CA_100,MTT_50,ETT_100,ETP_100,Course_Att,MHRDName,CA_1,CA_2,CA_3,CA_4,Height,Weight,ScholarType,Direction,Gender,Medium,CourseType,ProgramType
+4036,418192,2088776,NTE538,B+,67.0,,,64.0,,Bachelor of Technology in Civil Engineering,14.0,31.0,4.0,18.0,162,93,Day Scholar,North,Male,English,Theory,UG
+4037,418192,2088776,NTE8,B,57.0,0.0,62.0,,95.0,Bachelor of Technology in Civil Engineering,31.0,4.0,20.0,2.0,162,93,Day Scholar,North,Male,English,Theory,UG
+4038,418192,2088776,NTE9,A+,73.0,,,68.0,100.0,Bachelor of Technology in Civil Engineering,12.0,54.0,0.0,7.0,162,93,Day Scholar,North,Male,English,Theory,UG
+18100,418192,5262776,NTE538,F,16.0,,,0.0,,Bachelor of Technology in Civil Engineering,2.0,9.0,1.0,4.0,171,76,Day Scholar,West,Male,Hindi,Theory,UG
+18101,418192,5262776,NTE8,D,60.0,0.0,49.0,,74.0,Bachelor of Technology in Civil Engineering,7.0,39.0,7.0,7.0,171,76,Day Scholar,West,Male,Hindi,Theory,UG
+18102,418192,5262776,NTE9,E,84.0,,,22.0,86.0,Bachelor of Technology in Civil Engineering,78.0,4.0,2.0,0.0,171,76,Day Scholar,West,Male,Hindi,Theory,UG
+45061,418192,11226776,NTE538,F,0.0,,,0.0,,Bachelor of Technology in Civil Engineering,0.0,0.0,0.0,0.0,167,94,Day Scholar,East,Female,Regional,Theory,UG
+45062,418192,11226776,NTE8,F,0.0,0.0,0.0,,0.0,Bachelor of Technology in Civil Engineering,0.0,0.0,0.0,0.0,167,94,Day Scholar,East,Female,Regional,Theory,UG
+45063,418192,11226776,NTE9,F,0.0,,,0.0,0.0,Bachelor of Technology in Civil Engineering,0.0,0.0,0.0,0.0,167,94,Day Scholar,East,Female,Regional,Theory,UG
+49898,718192,12190776,NTE12,B,61.0,,,62.0,,Bachelor of Technology in Civil Engineering,45.0,5.0,8.0,3.0,158,83,Hostler,South,Female,English,Theory,UG
+56699,418192,13709776,NTE538,B+,66.0,,,68.0,,Bachelor of Technology in Civil Engineering,6.0,46.0,12.0,2.0,165,94,Day Scholar,North,Male,English,Theory,UG
+56700,418192,13709776,NTE885,E,42.0,0.0,0.0,,82.0,Bachelor of Technology in Civil Engineering,12.0,28.0,0.0,2.0,165,94,Day Scholar,North,Male,English,Theory,UG
+56701,418192,13709776,NTE886,B+,85.0,0.0,70.0,,92.0,Bachelor of Technology in Civil Engineering,72.0,11.0,0.0,2.0,165,94,Day Scholar,North,Male,English,Theory,UG
